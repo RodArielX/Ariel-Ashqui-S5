@@ -30,5 +30,28 @@ class Hijo extends Padre{
     public void mostrarInfo() {
         System.out.println("Informacion Hijo");
         super.mostrarInfo();
+        System.out.println("Cedula: " + cedula);
+        System.out.println("Tamaño:" + tamaño);
+    }
+}
+class Nieto extends Hijo{
+    double peso;
+    String titulo;
+    double sueldo;
+
+    public Nieto(String nombre, String apellido, int edad,
+                 int cedula, double tamaño, double peso, String titulo, double sueldo){
+        super(nombre, apellido, edad, cedula, tamaño);
+        this.peso = peso;
+        this.titulo = titulo;
+        this.sueldo = sueldo;
+    }
+    @Override
+    public void mostrarInfo(){
+        System.out.println("Informacion Nieto");
+        super.mostrarInfo();
+        System.out.println("Peso: " + peso);
+        System.out.println("Titulo: " + titulo);
+        System.out.println("Sueldo: " + sueldo);
     }
 }
