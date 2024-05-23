@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49a7bf8b-d318-41bc-b2f7-2bfa16361ae8" name="Changes" comment="Semana5">
-      <change beforePath="$PROJECT_DIR$/src/EquipoFavorito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EquipoFavorito.java" afterDir="false" />
+    <list default="true" id="49a7bf8b-d318-41bc-b2f7-2bfa16361ae8" name="Changes" comment="cambio">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EquipoFavorito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Padre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +80,23 @@
       <option name="project" value="LOCAL" />
       <updated>1716472920155</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Semana5">
+      <option name="closed" value="true" />
+      <created>1716473116371</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716473116371</updated>
+    </task>
+    <task id="LOCAL-00004" summary="cambio">
+      <option name="closed" value="true" />
+      <created>1716473159016</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716473159016</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +113,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Gitprueba" />
     <MESSAGE value="Semana5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Semana5" />
+    <MESSAGE value="cambio" />
+    <option name="LAST_COMMIT_MESSAGE" value="cambio" />
   </component>
 </project>
