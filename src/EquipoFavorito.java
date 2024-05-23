@@ -1,5 +1,6 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+//Mi equipo es el club deportivo nacional
 public class EquipoFavorito {
     String nombre;
     String color;

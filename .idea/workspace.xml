@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49a7bf8b-d318-41bc-b2f7-2bfa16361ae8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller_S5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EquipoFavorito.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="49a7bf8b-d318-41bc-b2f7-2bfa16361ae8" name="Changes" comment="Semana5">
+      <change beforePath="$PROJECT_DIR$/src/EquipoFavorito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EquipoFavorito.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "RodArielX"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/RodArielX/Ariel-Ashqui-S5.git",
+    "accountId": "cbecf156-af2f-4daa-9dcb-90ccda76f21c"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -44,7 +49,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/POO/Documents/Programacion Orientada a Objetos/Taller_S5/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/POO/Documents/Programacion Orientada a Objetos/Taller_S5/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -56,6 +62,39 @@
       <option name="presentableId" value="Default" />
       <updated>1716471746464</updated>
     </task>
+    <task id="LOCAL-00001" summary="Semana5">
+      <option name="closed" value="true" />
+      <created>1716472374316</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716472374316</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Semana5">
+      <option name="closed" value="true" />
+      <created>1716472920155</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716472920155</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Gitprueba" />
+    <MESSAGE value="Semana5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Semana5" />
   </component>
 </project>
